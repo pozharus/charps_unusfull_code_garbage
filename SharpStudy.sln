@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "Car\Car.csproj", "{5454883D-311F-42CA-B337-40C1786A1754}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{808BB4FC-1216-4272-9D78-1BF9FC41B702}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5454883D-311F-42CA-B337-40C1786A1754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5454883D-311F-42CA-B337-40C1786A1754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5454883D-311F-42CA-B337-40C1786A1754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808BB4FC-1216-4272-9D78-1BF9FC41B702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808BB4FC-1216-4272-9D78-1BF9FC41B702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808BB4FC-1216-4272-9D78-1BF9FC41B702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808BB4FC-1216-4272-9D78-1BF9FC41B702}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
