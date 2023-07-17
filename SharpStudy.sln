@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "Car\Car.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{808BB4FC-1216-4272-9D78-1BF9FC41B702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFiles", "CopyFiles\CopyFiles.csproj", "{3CC14A9B-81E8-44C0-8B99-E13A5846DD4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{808BB4FC-1216-4272-9D78-1BF9FC41B702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808BB4FC-1216-4272-9D78-1BF9FC41B702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808BB4FC-1216-4272-9D78-1BF9FC41B702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC14A9B-81E8-44C0-8B99-E13A5846DD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC14A9B-81E8-44C0-8B99-E13A5846DD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC14A9B-81E8-44C0-8B99-E13A5846DD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC14A9B-81E8-44C0-8B99-E13A5846DD4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
