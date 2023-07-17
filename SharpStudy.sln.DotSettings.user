@@ -1,4 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Yaroslav\.nuget\packages\microsoft.playwright\1.36.0\lib\netstandard2.0\Microsoft.Playwright.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=3cc14a9b_002D81e8_002D44c0_002D8b99_002De13a5846dd4a_0023CopyFiles/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=5454883d_002D311f_002D42ca_002Db337_002D40c1786a1754_0023Car/@EntryIndexedValue">True</s:Boolean>
 	
 	
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=808bb4fc_002D1216_002D4272_002D9d78_002D1bf9fc41b702_0023BinaryTree/@EntryIndexedValue">True</s:Boolean>
